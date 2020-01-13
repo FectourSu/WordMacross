@@ -1,0 +1,7 @@
+C:\Users\filin\Desktop\WordMacross\WordMacross\bin\Debug\WordMacross.exe.config
+C:\Users\filin\Desktop\WordMacross\WordMacross\bin\Debug\WordMacross.exe
+C:\Users\filin\Desktop\WordMacross\WordMacross\bin\Debug\WordMacross.pdb
+C:\Users\filin\Desktop\WordMacross\WordMacross\obj\Debug\WordMacross.csprojAssemblyReference.cache
+C:\Users\filin\Desktop\WordMacross\WordMacross\obj\Debug\WordMacross.csproj.ResolveComReference.cache
+C:\Users\filin\Desktop\WordMacross\WordMacross\obj\Debug\WordMacross.exe
+C:\Users\filin\Desktop\WordMacross\WordMacross\obj\Debug\WordMacross.pdb
